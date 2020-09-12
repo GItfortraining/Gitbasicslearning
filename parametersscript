@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "MENU is $1"
+echo "Menu is $2"
