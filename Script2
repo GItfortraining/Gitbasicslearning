@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Employee name $1"
+echo "Employee role number $2"
+echo "Employee marks $3"
